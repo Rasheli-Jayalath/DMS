@@ -14,7 +14,7 @@
 
 		$dbCfg['host']			= "localhost";
 		$dbCfg['db_user']		= "root";
-		$dbCfg['db_passwd']		= "SJ_Smec@egc_2012";
+		$dbCfg['db_passwd']		= "";
 		$dbCfg['db_name']		= "desal_dms";
 	}
 	
